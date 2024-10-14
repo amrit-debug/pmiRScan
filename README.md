@@ -1,6 +1,6 @@
 [![Python 3.x](https://img.shields.io/badge/Python-3.X-green.svg)](https://www.python.org/)
 [![pmiRScan]((http://www.csb.iitkgp.ac.in/applications/pmiRScan/index.php).
-pmiRScan uses Light Gradient Boosting algorithm to classify and predict a sequences as pre-miRNAs or non-premiRNAs using combination of sequence and structural features. The secondary structures are calculated using RNAfold in Vienna2.5.1 package.
+pmiRScan uses Light Gradient Boosting algorithm to classify and predict sequences as pre-miRNAs or non-premiRNAs using combination of sequence and structural features. The secondary structures are calculated using RNAfold in Vienna2.5.1 package.
 
 # Contents
 - [Contents](#contents)
