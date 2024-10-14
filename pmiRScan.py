@@ -5,7 +5,6 @@ import pandas as pd
 from sys import argv
 import complete_program as cpm
 import triplet_svm_features as tpsvm
-import RNAfold_params as rnf
 import number_of_loops as numl
 import count_indi_bp as cbp
 import other_features as cmb
