@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from imblearn.over_sampling import SMOTE
 
 
-premir_df = pd.read_csv("training_set12_3.csv", sep = ',')
+premir_df = pd.read_csv("training_set.csv", sep = ',')
 premir_df['Category'] = premir_df['Category'].map({'Pre-mir': 1, 'Pseudo-premir': 0})
 premir_df = premir_df.dropna()
 
