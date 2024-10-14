@@ -10,7 +10,7 @@ pmiRScan uses Light Gradient Boosting algorithm to classify and predict sequence
 
 
 # Requirements and installment
-This software is developed with Python 3.X, Python 3.X is required as runtime environment.
+This software is developed with Perl 5.x and Python 3.X, Python 3.X is required as runtime environment.
 - [Vienna 2.x.x](https://www.tbi.univie.ac.at/RNA/)
 
 ```shell
